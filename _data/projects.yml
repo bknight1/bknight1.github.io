@@ -6,6 +6,12 @@
   repo: knight_et_al-orogenic_wedges
   img: https://github.com/underworld-community/knight_et_al-orogenic_wedges/raw/master/Fig-9.jpg
   desc: Setup file to recreate orogenic wedge models that are included in my first PhD paper
+  
+  - name: GAB groundwater modelling
+    gh_user: underworld-community
+    repo: GAB_gwflow
+    img:  https://github.com/underworld-community/GAB_gwflow/raw/main/Figs/compareVelFields.pdf
+    desc: Files dedicated to performing an inversion to determine groundwater flow within the GAB
 
 # - name: Jekyll Theme
 #   gh_user: tzuehlke
